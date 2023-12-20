@@ -1,0 +1,41 @@
+2023.10.28 21:08:12 INFO  Started: Metals version 1.1.0 in folders 'D:\College\Fourth_Year\First_Term\IR\Project' for client Visual Studio Code 1.83.1.
+2023.10.28 21:08:14 WARN  Build server is not auto-connectable.
+2023.10.28 21:08:14 WARN  no build tool detected in workspace 'D:\College\Fourth_Year\First_Term\IR\Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.10.28 21:08:14 WARN  no build target for: C:\Users\Ahmed\OneDrive\Desktop\Untitled-1.scala
+2023.10.28 21:08:14 WARN  no build target for: C:\Users\Ahmed\OneDrive\Desktop\Untitled-1.scala
+2023.10.28 21:08:18 INFO  no build target found for C:\Users\Ahmed\OneDrive\Desktop\Untitled-1.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.10.28 21:08:20 INFO  time: code lens generation in 6.56s
+2023.10.31 11:55:33 INFO  Started: Metals version 1.1.0 in folders 'D:\College\Fourth_Year\First_Term\IR\Project' for client Visual Studio Code 1.83.1.
+2023.10.31 11:55:38 WARN  Build server is not auto-connectable.
+2023.10.31 11:55:38 WARN  no build tool detected in workspace 'D:\College\Fourth_Year\First_Term\IR\Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.10.31 11:55:38 WARN  no build target for: D:\College\Fourth_Year\First_Term\PL3\Scala\Section\Buying_Crypto_Currency_Assignment\src\main\scala\Main.scala
+2023.10.31 11:55:45 INFO  no build target found for D:\College\Fourth_Year\First_Term\PL3\Scala\Section\Buying_Crypto_Currency_Assignment\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.10.31 11:55:49 INFO  time: code lens generation in 8.88s
+Nov 06, 2023 9:45:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 06, 2023 9:45:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 06, 2023 9:45:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 06, 2023 9:45:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 06, 2023 9:45:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 06, 2023 9:45:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2023.11.07 11:23:35 WARN  no build target for: D:\College\Fourth_Year\First_Term\PL3\Scala\Learning_Scala\src\main\scala\main.scala
+2023.11.07 11:23:54 WARN  no build target for: D:\College\Fourth_Year\First_Term\PL3\Scala\Section\Buying_Crypto_Currency_Assignment\src\main\scala\Main.scala
+2023.11.07 11:45:09 INFO  Shutting down server
+2023.11.07 11:45:09 INFO  shutting down Metals
+2023.11.07 11:45:09 INFO  Exiting server
+2023.11.09 17:30:17 INFO  Started: Metals version 1.1.0 in folders 'D:\College\Fourth_Year\First_Term\IR\Project' for client Visual Studio Code 1.84.0.
+2023.11.09 17:30:27 INFO  no build target found for C:\Users\Ahmed\OneDrive\Desktop\Untitled-1.scala. Using presentation compiler with project's scala-library version: 3.3.1
+2023.11.09 17:30:31 WARN  Build server is not auto-connectable.
+2023.11.09 17:30:31 WARN  no build tool detected in workspace 'D:\College\Fourth_Year\First_Term\IR\Project'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.11.09 17:30:31 WARN  no build target for: C:\Users\Ahmed\OneDrive\Desktop\Untitled-1.scala
+2023.11.09 17:30:35 WARN  no build target for: C:\Users\Ahmed\OneDrive\Desktop\Untitled-1.scala
+2023.11.09 17:30:37 INFO  time: code lens generation in 2.62s
+2023.11.09 17:30:37 INFO  time: code lens generation in 5.72s
+2023.11.10 21:27:48 INFO  Shutting down server
+2023.11.10 21:27:48 INFO  shutting down Metals
+2023.11.10 21:27:48 INFO  Exiting server
