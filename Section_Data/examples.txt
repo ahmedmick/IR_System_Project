@@ -1,0 +1,5 @@
+Boolean Query:
+(new AND york)
+
+Phrase Query:
+new york
