@@ -805,11 +805,13 @@ def create_normalize_product_table():
             current_element += 1
             matrix.append(row)
             QUERY_TABLE_VALUES.append(values)
+            print(f"row = {row}")
     QUERY_TABLE_VALUES.append(sum)
     sum = [str(x) for x in sum]
     SIMILARITY_VALUES = sum
     matrix.append(["Sum"] + sum)
     Models_Data.Vector_Space_Model_Query_MATRIX = matrix
+    print(matrix)
     # show matrix using tree view
     show_matrix_query_table()  # remove comment in case you want show df table
 

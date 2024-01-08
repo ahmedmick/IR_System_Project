@@ -59,6 +59,7 @@ def add_new_document():
         Models_Data.Inverted_Index_Model_WORDS = unsorted_distinct_list(
             Models_Data.Inverted_Index_Model_WORDS
         )
+        sorted(list(set(Models_Data.Boolean_Retrieval_Model_WORDS)))
         current_filename = get_file_name(file)
         if current_filename not in Models_Data.Inverted_Index_Model_FILES_NAME:
             Models_Data.Inverted_Index_Model_FILES_NAME.append(current_filename)
@@ -117,9 +118,9 @@ def create_data_table():
 
 # Step 2: Sort Table of every term and it's associated Document
 def sort_data_table():
-    Models_Data.Inverted_Index_Model_MATRIX = Models_Data.Inverted_Index_Model_MATRIX[
-        :2
-    ] + sorted(Models_Data.Inverted_Index_Model_MATRIX[2:])
+    Models_Data.Inverted_Index_Model_MATRIX = sorted(
+        Models_Data.Inverted_Index_Model_MATRIX
+    )
     show_matrix_table()
 
 
@@ -131,6 +132,14 @@ def create_posted_list():
         term = Models_Data.Inverted_Index_Model_MATRIX[i][0]
         documents = str(Models_Data.Inverted_Index_Model_MATRIX[i][1])
         frequency = 1
+        if (
+            i == len(Models_Data.Inverted_Index_Model_MATRIX) - 1
+            and term == Models_Data.Inverted_Index_Model_MATRIX[i][0]
+        ):
+            documents += "," + str(Models_Data.Inverted_Index_Model_MATRIX[i-1][1])
+            frequency += 1
+            i += 1
+            
         if (
             i + 1 < len(Models_Data.Inverted_Index_Model_MATRIX)
             and term == Models_Data.Inverted_Index_Model_MATRIX[i + 1][0]
