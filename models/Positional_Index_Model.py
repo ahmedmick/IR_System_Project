@@ -382,7 +382,7 @@ def show_query_answer():
     print(filtered_list)
 
     for pos, val in enumerate(query_answer_list):
-        temp = {query_files_list[pos][0]: filtered_list[pos]}
+        temp = {query_files_list[pos]: filtered_list[pos]}
         query_answer_list[pos] = temp
 
     print(f"query_answer_list = {query_answer_list}")
