@@ -36,11 +36,11 @@
 ```
 # # Example:<br>
 <b>Input:<b>
-```
+```c++
 (new OR times)
 ```
 <b>Output:</b><br>
-```
+```c++
 Query Answer:
 111
 Files:
@@ -48,5 +48,8 @@ D1
 D2
 D3
 ```
-<br>
+![alt text](Images/Boolean_Retreival_Model_Example.png)<br>
+# # Data Matrix from the example:<br>
 ![alt text](Images/Boolean_Retreival_Model_Data_Matrix.png)<br>
+
+
