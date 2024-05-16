@@ -100,6 +100,6 @@ D3
 ```
 ![alt text](Images/Inverted_Index_Model_Example.png)<br>
 # # Data Matrix from the example:<br>
-![alt text](Images/Inverted_Index_Model_Posted_List.png = 100x100)<br>
+<img src="Images/Inverted_Index_Model_Posted_List.png" width="200" height="200"><br>
 <br>
 
