@@ -57,8 +57,7 @@ D3
 <b>which contains 1 if the word in the file and 0 if the is not in the file</b><br>
 <b>and by simple obervation you realize that we don't care about 0 values because</b><br>
 <b>it doesn't add any value to our search so we can store only positions where the value is 1</b><br>
-<b>which makes our model more efficient and helps us focus on more important information like the positions and frequency of every word which called "Posted List"</b><br>
-<b>and this model leads us to our second model which is "Inverted Index Model"</b><br>
+<and>which makes our model more efficient and helps us focus on more important information like the positions and frequency of every word which called "Posted List" and this model leads us to our second model which is "Inverted Index Model"</b><br>
 
 ![alt text](Images/Inverted_Index_Model.png)<br>
 <br>
