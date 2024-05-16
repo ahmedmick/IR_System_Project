@@ -84,4 +84,18 @@ D3
     second -> the Files returned from your Query
 5 - Click on "Clear Query" Button to Clear "Enter Query" textbox and output textbox.
 ```
-
+# # Example:<br>
+<b>Input:<b>
+```c++
+(new OR times)
+```
+<b>Output:</b><br>
+```c++
+Query Answer:
+[1, 2, 3]
+Files:
+D1
+D2
+D3
+```
+![alt text](Images/Inverted_Index_Model_Example.png)<br>
