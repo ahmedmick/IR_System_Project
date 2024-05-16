@@ -1,4 +1,4 @@
-# This Project Aims to help in searching Text documents Using an IR System
+# This Project aims to help in searching Text documents using an IR System.
 
 # # The System Consists of 4 Model:<br>
 <b>1 - Boolean Retrieval Model</b><br>
