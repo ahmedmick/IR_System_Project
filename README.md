@@ -99,3 +99,6 @@ D2
 D3
 ```
 ![alt text](Images/Inverted_Index_Model_Example.png)<br>
+# # Data Matrix from the example:<br>
+![alt text](Images/Inverted_Index_Model_Posted_List.png)<br>
+<br>
