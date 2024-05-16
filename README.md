@@ -61,6 +61,6 @@ D3
 <br>
 <b>and this model leads us to our second model which is "Inverted Index Model"</b><br>
 
-![alt text](Images/Boolean_Retreival_Model.png)<br>
+![alt text](Images/Inverted_Index_Model.png)<br>
 <br>
 
