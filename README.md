@@ -51,5 +51,15 @@ D3
 ![alt text](Images/Boolean_Retreival_Model_Example.png)<br>
 # # Data Matrix from the example:<br>
 ![alt text](Images/Boolean_Retreival_Model_Data_Matrix.png)<br>
+<br>
+# # Inverted Index Model:<br>
+<b>In Boolean Retrieval model we faced a problem with the size of Data Matrix table</b><br>
+<b>which contains 1 if the word in the file and 0 if the is not in the file</b><br>
+<b>and by simple obervation you realize that we don't care about 0 values because</b><br>
+<b>it doesn't add any value to our search so we can store only positions where the value is 1</b><br>
+<b>which makes our model more efficient and helps us focus on more important information</b><br>
+<br>
 
+![alt text](Images/Boolean_Retreival_Model.png)<br>
+<br>
 
