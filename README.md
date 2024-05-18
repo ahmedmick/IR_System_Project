@@ -114,6 +114,7 @@ which can be implemented thanks to "Positional Index Model".<br>
 </br>
 <img src="Images/Positional_Index_Model.png" height="400" width="400">
 <br>
+
 # # Steps to use this Model:<br>
 ```c++
 1 - Add "your text files" using the "Add Data File" Button.
